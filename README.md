@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I’m Aiden C Terrence, a self-taught full-stack JavaScript developer who loves building impactful applications and learning how systems work behind the scenes. I’m currently diving into DevOps and Software Quality Assurance to bridge development with deployment and improve my technical foundation. I’ve built and deployed several full-stack projects using React, Node.js, and MongoDB, and I’m now developing DevDirect - a platform designed to help aspiring developers practice interviews and accelerate their careers. My goal is to grow into a software architect, and I’m preparing to step into my dream company, KPMG, with curiosity, adaptability, and determination.</p>
+<p align="left">I’m <b>Aiden C Terrence</b>, a self-taught <b>Full-Stack JavaScript Developer</b> who loves building impactful applications and learning how systems work behind the scenes. I’m currently diving into <b>DevOps</b> and <b>Software Quality Assurance (SQA)</b> to bridge development with deployment and improve my technical foundation. I’ve built and deployed several full-stack projects using <b>React</b>, <b>Node.js</b>, and <b>MongoDB</b>, and I’m now developing <b>DevDirect</b> — a platform designed to help aspiring developers practice interviews and accelerate their careers. My goal is to grow into a <b>Software Architect</b>, and I’m preparing to step into my dream company, <b>KPMG</b>, with curiosity, adaptability, and determination.</p>
 
 ###
 
